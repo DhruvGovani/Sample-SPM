@@ -11,6 +11,6 @@ public struct MyLibrary {
     public init() {}
     
     public func helloWorld() {
-        print("Hello, World!")
+        print("Hello, World! This is 1.0.1 Version")
     }
 }
